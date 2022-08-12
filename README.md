@@ -1,4 +1,4 @@
-- Hi, I’m @McGoblinProgram
+- Hi, I’m @McGoblin
 - 👀 I’m interested in ...
     - C++
     - OpenGL
