@@ -2,6 +2,5 @@
 - 👀 I’m interested in ...
     - C++
     - OpenGL
-    - Arduino
+    - Microcontrollers
     
-- I'm quite new to programming...
